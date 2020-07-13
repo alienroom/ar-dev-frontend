@@ -1,0 +1,14 @@
+/* Center Content */
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbarBg {
+  background-color: #58008f !important;
+}
+
+.burger {
+  background-color: #9c00ff;
+}

@@ -1,0 +1,101 @@
+.va {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  color: white;
+  background: rgb(14, 14, 14) !important;
+}
+
+footer strong {
+  color: turquoise;
+}
+
+footer a {
+  color: turquoise;
+}
+
+.title {
+  color: white;
+  font-weight: 800;
+  font-size: 4rem;
+  font-family: "Nunito Sans", sans-serif;
+  text-shadow: 1px 1px 1px #000, 3px 3px 5px rgb(0, 0, 3);
+}
+
+.subtitle {
+  color: white;
+  font-size: 1.2rem;
+  text-shadow: 1px 1px 1px #000, 3px 3px 5px rgb(0, 0, 3);
+}
+
+hr.content-divider {
+  max-width: 75px;
+  height: 5px;
+}
+
+#parallax-1 {
+  background: url(../images/img01.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: 10px solid #9c00ff;
+}
+
+#parallax-1 hr {
+  background: #9c00ff;
+}
+
+#parallax-2 {
+  background: url(../images/img02.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: 10px solid #00ffff;
+}
+
+#parallax-2 hr {
+  background: #00ffff;
+}
+
+#parallax-3 {
+  background: url(../images/img03.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: 10px solid #58008f;
+}
+
+#parallax-3 hr {
+  background: #58008f;
+}
+
+#parallax-4 {
+  background: url(../images/img04.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: 10px solid #00ffff;
+}
+
+#parallax-4 hr {
+  background: #00ffff;
+}
+#parallax-5 {
+  background: url(../images/img05.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: 10px solid #58008f;
+}
+
+#parallax-5 hr {
+  background: #58008f;
+}
